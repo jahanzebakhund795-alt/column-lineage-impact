@@ -1,0 +1,8 @@
+{
+  "changed": "raw.orders.amount",
+  "impacted": [
+    "dashboard.revenue",
+    "gold.revenue.total",
+    "silver.orders.amount"
+  ]
+}

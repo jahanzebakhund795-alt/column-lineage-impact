@@ -1,0 +1,17 @@
+{
+  "edges": [
+    [
+      "raw.orders.amount",
+      "silver.orders.amount"
+    ],
+    [
+      "silver.orders.amount",
+      "gold.revenue.total"
+    ],
+    [
+      "gold.revenue.total",
+      "dashboard.revenue"
+    ]
+  ],
+  "changed": "raw.orders.amount"
+}
